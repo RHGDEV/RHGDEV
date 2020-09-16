@@ -1,10 +1,7 @@
-<!-- <p align="center">
-  <img align="center" src="https://old.rustyrhuskey.tk/favicon.ico" alt="title">
-</p> -->
 <p align="center">
- <img width="100px" src="/assets/Title.png" align="center" alt="Title Image" />
+ <img width="600px" src="/assets/Title.png" align="center" alt="Title Image" />
  <!-- <h2 align="center">RHG</h2>
- <!-- <p align="center">Get dynamically generated GitHub stats on your readmes!</p> -->
+ <!-- <p align="center">Description</p> -->
 </p>
 <p align="center">
   <a href="https://rustyrhuskey.tk">Website</a>
