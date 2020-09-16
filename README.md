@@ -1,5 +1,5 @@
 <p align="center">
- <img width="600px" src="/assets/Title.png" align="center" alt="Title Image" />
+ <img width="600px" src="https://media.discordapp.net/attachments/755868456993423491/755868472050712636/Title.png" align="center" alt="Title Image" />
  <!-- <h2 align="center">RHG</h2>
  <!-- <p align="center">Description</p> -->
 </p>
