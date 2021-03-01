@@ -7,8 +7,6 @@
   <a href="https://rustyrhuskey.tk">Website</a>
   ·
   <a href="https://twitter.com/RHGRDev">Twitter</a>
-  ·
-  <a href="mailto:github@rustyrhuskey.tk">Email me</a>
 </p>
 
 <p align="center">
