@@ -30,7 +30,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=900 height=195 src="https://github-profile-trophy.vercel.app/?username=RHGDEV&no-frame=true&no-bg=true&theme=darkhub" alt="" /></a> 
 </p>
 
-<!-- ----------- PROFILE STATS ------------ --> <!--
+<!-- ----------- PROFILE STATS ------------ -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=RHGDEV&label=VIEWS&color=grey&style=flat-square" alt=""/></p>
 
- ![](https://hit.yhype.me/github/profile?user_id=21209674) -->
+ ![](https://hit.yhype.me/github/profile?user_id=21209674)
