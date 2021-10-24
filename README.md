@@ -24,8 +24,8 @@
 
 <!-- ----------- GITHUB STATS ------------ -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width=430 height=195 src="https://github-readme-stats.vercel.app/api?username=RHGDEV&custom_title=Stats&show_icons=true&count_private=true&include_all_commits=1&hide_border=true&cache_seconds=1800&bg_color=18191C&title_color=fff&text_color=fff&icon_color=fff" alt=""></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width=430 height=195 src="https://github-readme-streak-stats.herokuapp.com?user=RHGDEV&hide_border=true&fire=fff&ring=fff&currStreakNum=fff&stroke=fff&currStreakLabel=fff&sideLabels=fff&sideNums=fff&border=fff&dates=fff&background=18191C" alt=""/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width=415 height=195 src="https://github-readme-stats.vercel.app/api?username=RHGDEV&custom_title=Stats&show_icons=true&count_private=true&include_all_commits=1&hide_border=true&cache_seconds=1800&bg_color=18191C&title_color=fff&text_color=fff&icon_color=fff" alt=""></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width=415 height=195 src="https://github-readme-streak-stats.herokuapp.com?user=RHGDEV&hide_border=true&fire=fff&ring=fff&currStreakNum=fff&stroke=fff&currStreakLabel=fff&sideLabels=fff&sideNums=fff&border=fff&dates=fff&background=18191C" alt=""/></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width=900 height=300 src="https://activity-graph.herokuapp.com/graph?username=RHGDEV&hide_border=true&hide_title=true&area=true&area_color=fff&bg_color=18191C&color=FFF&line=FFF&point=FFF" alt=""/></a>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=900 height=195 src="https://github-profile-trophy.vercel.app/?username=RHGDEV&no-frame=true&no-bg=true&theme=darkhub" alt="" /></a> 
 </p>
