@@ -88,12 +88,12 @@
 
 <!-- ----------- PROFILE STATS ------------ -->
 <p align="center">
+ <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=RHGDEV&label=VIEWS&color=grey&style=flat-square" alt=""/></a>
  <a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/years/RHGDEV?label=YEARS&color=grey&style=flat-square" alt=""/></a>
  <a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/repos/RHGDEV?label=REPOS&color=grey&style=flat-square" alt=""/></a>
  <a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/gists/RHGDEV?label=GISTS&color=grey&style=flat-square" alt=""/></a>
 </p>
 <p align="center"><a href="https://wakatime.com/@RHGDev"><img src="https://wakatime.com/badge/user/e4c40802-a41f-42d5-b82f-ec4fe03cc698.svg?color=grey&style=flat-square" alt=""></a></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=RHGDEV&label=VIEWS&color=grey&style=flat-square" alt=""/></p>
 
 <!-- ----------- STATS COUNTER ------------ -->
 ![](https://hit.yhype.me/github/profile?user_id=21209674)
