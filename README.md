@@ -8,7 +8,7 @@
 
 <!-- ----------- TECH STACK ------------ --> <!-- - https://github.com/Ileriayo/markdown-badges#readme - -->
 <!--<p align="center">Languages & Markups</p>-->
-<p align="center" style="width:250px;height:200px;outline:dashed 1px black;">
+<p align="center">
  <img src="https://img.shields.io/badge/atom-%2366595C?style=for-the-badge&logo=atom&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/bitbucket-%230047B3?style=for-the-badge&logo=bitbucket&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"></img>
@@ -33,6 +33,7 @@
  <img src="https://img.shields.io/badge/mongodb-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=fff"></img>
+ <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/npm-%23000000?style=for-the-badge&logo=npm&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff"></img>
