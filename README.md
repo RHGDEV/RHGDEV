@@ -2,7 +2,7 @@
 
 <!-- ----------- HEADER ------------ -->
 <p align="center">
- <img src="https://media.discordapp.net/attachments/755868456993423491/970714832103936000/RHGBanner2.png" alt="Title Image" />
+ <img src="https://raw.githubusercontent.com/RHGDEV/RHGDEV/master/Banner.png" alt="Title Image" />
 </p>
 
 
