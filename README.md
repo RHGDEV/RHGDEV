@@ -2,27 +2,23 @@
 
 <!-- ----------- HEADER ------------ -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/RHGDEV/RHGDEV/master/Banner.png" alt="Title Image" />
+ <img src="https://raw.githubusercontent.com/RHGDEV/RHGDEV/master/Banner2025.png" alt="Title Image" />
 </p>
 
 
 <!-- ----------- TECH STACK ------------ --> <!-- - https://github.com/Ileriayo/markdown-badges#readme - -->
 <!--<p align="center">Languages & Markups</p>-->
 <p align="center">
- <img src="https://img.shields.io/badge/atom-%2366595C?style=for-the-badge&logo=atom&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/bitbucket-%230047B3?style=for-the-badge&logo=bitbucket&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=fff"></img>
- <img src="https://img.shields.io/badge/fastify-%23000000?style=for-the-badge&logo=fastify&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=fff"></img>
- <img src="https://img.shields.io/badge/gatsby.js-%23663399?style=for-the-badge&logo=gatsby&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=fff"></img>
- <img src="https://img.shields.io/badge/glitch-%233333FF?style=for-the-badge&logo=glitch&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"></img>
@@ -31,7 +27,6 @@
  <img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/microsoft_visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/mongodb-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=fff"></img>
- <img src="https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=fff"></img>
  <img src="https://img.shields.io/badge/npm-%23000000?style=for-the-badge&logo=npm&logoColor=fff"></img>
